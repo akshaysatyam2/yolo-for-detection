@@ -1,0 +1,5 @@
+train: /kaggle/input/helmet-nohelmet/dataset/images/train
+val: /kaggle/input/helmet-nohelmet/dataset/images/val
+test: /kaggle/input/helmet-nohelmet/dataset/images/test
+nc: 2
+names: ['NO-Hardhat', 'Hardhat']
