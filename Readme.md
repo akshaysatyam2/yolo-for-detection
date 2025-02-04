@@ -1,6 +1,6 @@
 # **Yolo Object Detection Project**
 
-This project aims to train detection model using **YOLOv11** or other YOLO models of your choice. It includes **data preprocessing, model training, and evaluation** to ensure accurate detection of PPE in images.
+This project aims to train detection model using **YOLOv11** or other YOLO models of your choice. It includes **data preprocessing, model training, and evaluation** to ensure accurate detection of images.
 
 ---
 
